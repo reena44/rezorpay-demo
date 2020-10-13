@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReozorpayDemo</string>
+    <string name="app_test_key">rzp_test_fikUopBiBwCZEd</string>
+    <string name="enter_your_amount">Enter your amount</string>
+    <string name="error_amount_empty">Please enter amount first</string>
+
+</resources>
